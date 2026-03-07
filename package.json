@@ -1,0 +1,21 @@
+{
+  "name": "discord_self",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "axios": "^1.5.1",
+    "discord.js-selfbot-v13": "^2.14.11",
+    "eslint": "^8.50.0",
+    "inquirer": "^9.2.11",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43",
+    "pm2": "^5.3.0"
+  }
+}

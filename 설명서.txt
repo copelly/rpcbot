@@ -1,0 +1,20 @@
+* 해당 코드는 Cloud AN(https://starvend.xyz/discord) 총관리자 Star가 제작 및 유포합니다.
+* 해당 봇은 상업적 목적으로 사용해도 됩니다.
+* 해당 코드를 이용하여 사기, 테러 등 불미스러운 일이 발생 하여도 Cloud AN 관리자는 책임지지 않습니다.
+* 세팅은 무료로는 일절 도와드릴 의향이 없으며, 위 디스코드 서버로 오셔서 10,000원만 내시면 세팅 해드립니다. (호스팅 제외)
+
+
+* bot.py = RPC 세팅하는 봇
+* config.json = RPC 출력에 필요한 데이터를 저장하는 곳
+* index.js = RPC를 출력해주는 코드
+* licens.db = RPC 세팅할 때 라이센스 등록 할 수 있게 해주는 파일
+* package.json = 굳이 알 필요 없음
+* package-lock.json = 굳이 알 필요 없음
+* start.bat = index.js를 10분마다 재실행 되게 해주는 배치파일
+
+
+* Node.js ( 버전 상관없음 )
+* npm i discord.js-selfbot-v13
+
+* python ( 3.11 이상은 안쓰는 걸 추천 )
+* pip install -r requirements.txt
